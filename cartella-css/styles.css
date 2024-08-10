@@ -26,6 +26,7 @@ body{
     border-radius: 50%;
     background: blue;
     border: none;
+    -webkit-tap-highlight-color: transparent
 }
 .counter{
     height: 100px;
@@ -42,6 +43,7 @@ body{
     border-radius: 50%;
     background: red;
     border: none;
+    -webkit-tap-highlight-color: transparent
 
 }
 .plus-counter:hover {
